@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/vcollapsar/DEO/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Testing text here...
+TDEO (Discs with Embedded Objects) is a new one dimensional code to model viscous disc plus dust and embeddedplanet or star objects. It is offered as (1) an alternative to 2D/3D codes when their intended application is beyonduser’s numerical resources; (2) as an inner boundary condition for such codes; (3) a method to setup initial conditionsfor multi-D simulations. Here we summarise physical assumptions, equations, and provide sample applications of thecode.
 
 ### Markdown
 
