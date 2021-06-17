@@ -1,8 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vcollapsar/DEO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Code description
 
 DEO (Discs with Embedded Objects) is a new one dimensional code to model viscous disc plus dust and embeddedplanet or star objects. It is offered as (1) an alternative to 2D/3D codes when their intended application is beyonduser’s numerical resources; (2) as an inner boundary condition for such codes; (3) a method to setup initial conditionsfor multi-D simulations. Here we summarise physical assumptions, equations, and provide sample applications of thecode.
 
@@ -37,3 +33,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+You can use the [link](https://github.com/vcollapsar) to maintain and preview the content for your website in Markdown files.
+
